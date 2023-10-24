@@ -5,8 +5,8 @@
 curl -X POST --location "{{host}}/api/client/user/login" \
     -H "Content-Type: application/json" \
     -d "{
-          \"username\": \"admin\",
-          \"password\": \"123456\"
+          \"username\": \"someuser\",
+          \"password\": \"suerpasswd\"
         }"
 ```
 
