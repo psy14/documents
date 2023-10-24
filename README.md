@@ -1,6 +1,6 @@
 # documents
 
-### financial system token
+### system token
 ```curl
 curl -X POST --location "{{host}}/api/client/user/login" \
     -H "Content-Type: application/json" \
