@@ -1,7 +1,5 @@
 # documents
 
-## test server 
-http://107.22.14.140/
 
 ### system token
 ```curl
